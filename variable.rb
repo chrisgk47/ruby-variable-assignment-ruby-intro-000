@@ -5,7 +5,7 @@ gianpaul = {
   height: 210
 }
 
-puts gianpaul
+puts "GIANPAUL HASH: ", gianpaul
 
 puts gianpaul[:name]
 
