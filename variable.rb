@@ -5,6 +5,8 @@ gianpaul = {
   height: 210
 }
 
+puts gianpaul
+
 puts gianpaul[:name]
 
 chris = {
