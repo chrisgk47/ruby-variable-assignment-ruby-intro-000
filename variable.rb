@@ -6,3 +6,11 @@ gianpaul = {
 }
 
 puts gianpaul[:name]
+
+chris = {
+  :name => "Chris-a Kiiiiiiim",
+  :height => "nut high",
+  :weight => "skinny bitch"
+}
+
+puts chris[:weight]
