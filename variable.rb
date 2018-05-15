@@ -5,7 +5,7 @@ gianpaul = {
   height: 210
 }
 
-print "GIANPAUL HASH: ", gianpaul, "/n"
+print "GIANPAUL HASH: ", gianpaul, "\n"
 
 puts gianpaul[:name]
 
